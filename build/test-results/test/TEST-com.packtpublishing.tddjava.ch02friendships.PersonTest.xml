@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.packtpublishing.tddjava.ch02friendships.PersonTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-06-09T20:47:50" hostname="MiniStack.home" time="0.012">
+  <properties/>
+  <testcase name="testGetFriends" classname="com.packtpublishing.tddjava.ch02friendships.PersonTest" time="0.0"/>
+  <testcase name="testAddFriend" classname="com.packtpublishing.tddjava.ch02friendships.PersonTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

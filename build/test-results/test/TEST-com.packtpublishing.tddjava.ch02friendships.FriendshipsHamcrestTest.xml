@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.packtpublishing.tddjava.ch02friendships.FriendshipsHamcrestTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-06-09T20:47:47" hostname="MiniStack.home" time="0.039">
+  <properties/>
+  <testcase name="joeHas5Friends" classname="com.packtpublishing.tddjava.ch02friendships.FriendshipsHamcrestTest" time="0.024"/>
+  <testcase name="joeIsFriendWithEveryone" classname="com.packtpublishing.tddjava.ch02friendships.FriendshipsHamcrestTest" time="0.004"/>
+  <testcase name="alexDoesNotHaveFriends" classname="com.packtpublishing.tddjava.ch02friendships.FriendshipsHamcrestTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.packtpublishing.tddjava.ch02friendships.FriendshipsMongoEasyMockTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-06-09T20:47:50" hostname="MiniStack.home" time="0.072">
+  <properties/>
+  <testcase name="joeHas5Friends" classname="com.packtpublishing.tddjava.ch02friendships.FriendshipsMongoEasyMockTest" time="0.052"/>
+  <testcase name="mockingWorksAsExpected" classname="com.packtpublishing.tddjava.ch02friendships.FriendshipsMongoEasyMockTest" time="0.002"/>
+  <testcase name="alexDoesNotHaveFriends" classname="com.packtpublishing.tddjava.ch02friendships.FriendshipsMongoEasyMockTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
